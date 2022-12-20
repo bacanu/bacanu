@@ -7,5 +7,5 @@ F#, Elmish and more for side projects.
 ### Current side project: 
 [Wunti.app](https://wunti.app) which aims to be "Waze for mountain resorts" with user contributed data about conditions, lift lines and more.
 Built with:
-- Ionic + React + Fable for the mobile app.
+- Ionic + React + F#/Fable for the mobile app.
 - Laravel for the backend
